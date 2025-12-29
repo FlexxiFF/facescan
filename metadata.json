@@ -1,0 +1,7 @@
+{
+  "name": "DermaScan AI",
+  "description": "An advanced AI-powered skin analysis tool that uses Gemini to provide personalized skincare routines, product recommendations, and expert video guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
